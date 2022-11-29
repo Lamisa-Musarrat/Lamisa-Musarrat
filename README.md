@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lamisa-Musarrat
-- 👀 I’m interested in Control Engineering and Robotics 
+- 👀 I’m interested in Control Engineering and Robotics. But Cosmology and Astronomy is the passion here.
 - 🌱 I’m currently learning Robotic operating System
 - 💞️ I’m looking to collaborate on any ROS projects
 - 📫 How to reach me (lamisa.musarrat@gmail.com)
